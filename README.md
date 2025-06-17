@@ -66,8 +66,8 @@ Add more data for better accuracy
 
 Hyperparameter tuning and cross-validation
 
-**🤝 Contributing**
-Contributions are welcome! Please open issues or pull requests to help improve the project.
+**🤝 Contributions
+ are welcome! Please open issues or pull requests to help improve the project.**
 
 
 
