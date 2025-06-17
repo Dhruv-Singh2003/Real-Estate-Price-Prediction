@@ -1,7 +1,7 @@
-**🏠 Real Estate Price Prediction** 
+**🏠 Real Estate Price Prediction:** 
 This project aims to predict real estate prices based on various property features using machine learning algorithms. The model helps users estimate property prices, assisting buyers, sellers, and investors in making informed decisions.
 
-**📖 About the Project**
+**📖 About the Project:**
 This project uses supervised learning techniques to predict house prices based on features such as location, area, number of bedrooms, bathrooms, etc. The project includes:
 
     Data preprocessing and cleaning
@@ -23,7 +23,7 @@ This project uses supervised learning techniques to predict house prices based o
       
       Jupyter Notebook – Development environment
 
-**📊 Dataset**
+**📊 Dataset:**
 The dataset used contains various features related to real estate listings.
 
 You can find the dataset here (Replace with your dataset link or upload it to the repo).
@@ -42,7 +42,7 @@ Features include:
           
           Price
 
-**📈 Results**
+**📈 Results:**
 Achieved R² Score: e.g., 0.85 on test data
 
 Best performing model: e.g., Linear Regression / Random Forest
@@ -55,7 +55,7 @@ Visualizations included:
         
         Actual vs Predicted plots
 
-**🔮 Future Improvements**
+**🔮 Future Improvements:**
 Use advanced models like XGBoost or CatBoost
 
 Include location-based clustering
